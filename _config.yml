@@ -1,6 +1,7 @@
-title: Minimal theme
+title: <p align=center> Minimal theme </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+description: <p align="center"> Data science profile </p>
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+
